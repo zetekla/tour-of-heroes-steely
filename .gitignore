@@ -3,7 +3,8 @@
 node_modules/*
 typings/*
 tests/js/*
-public/
+public/dist/
+public/lib/
 
 # Compiled source #
 ###################
